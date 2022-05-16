@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Console_Principal/1.0.0": {
+        "dependencies": {
+          "Divisao": "1.0.0",
+          "Multiplicacao": "1.0.0",
+          "Soma": "1.0.0",
+          "Subtracao": "1.0.0"
+        },
+        "runtime": {
+          "Console_Principal.dll": {}
+        }
+      },
+      "Divisao/1.0.0": {
+        "runtime": {
+          "Divisao.dll": {}
+        }
+      },
+      "Multiplicacao/1.0.0": {
+        "runtime": {
+          "Multiplicacao.dll": {}
+        }
+      },
+      "Soma/1.0.0": {
+        "runtime": {
+          "Soma.dll": {}
+        }
+      },
+      "Subtracao/1.0.0": {
+        "runtime": {
+          "Subtracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console_Principal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Divisao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Multiplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Soma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Subtracao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

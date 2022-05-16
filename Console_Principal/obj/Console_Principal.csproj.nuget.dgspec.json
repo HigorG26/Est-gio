@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Console_Principal\\Console_Principal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Console_Principal\\Console_Principal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Console_Principal\\Console_Principal.csproj",
+        "projectName": "Console_Principal",
+        "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Console_Principal\\Console_Principal.csproj",
+        "packagesPath": "C:\\Users\\e_higorgfs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Console_Principal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e_higorgfs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Divisao\\Divisao.csproj": {
+                "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Divisao\\Divisao.csproj"
+              },
+              "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Multiplicacao\\Multiplicacao.csproj": {
+                "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Multiplicacao\\Multiplicacao.csproj"
+              },
+              "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Soma\\Soma.csproj": {
+                "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Soma\\Soma.csproj"
+              },
+              "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Subtracao\\Subtracao.csproj": {
+                "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Subtracao\\Subtracao.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Divisao\\Divisao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Divisao\\Divisao.csproj",
+        "projectName": "Divisao",
+        "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Divisao\\Divisao.csproj",
+        "packagesPath": "C:\\Users\\e_higorgfs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Divisao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e_higorgfs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Multiplicacao\\Multiplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Multiplicacao\\Multiplicacao.csproj",
+        "projectName": "Multiplicacao",
+        "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Multiplicacao\\Multiplicacao.csproj",
+        "packagesPath": "C:\\Users\\e_higorgfs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Multiplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e_higorgfs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Soma\\Soma.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Soma\\Soma.csproj",
+        "projectName": "Soma",
+        "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Soma\\Soma.csproj",
+        "packagesPath": "C:\\Users\\e_higorgfs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Soma\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e_higorgfs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Subtracao\\Subtracao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Subtracao\\Subtracao.csproj",
+        "projectName": "Subtracao",
+        "projectPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Subtracao\\Subtracao.csproj",
+        "packagesPath": "C:\\Users\\e_higorgfs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e_higorgfs\\source\\repos\\Console_Principal\\Subtracao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e_higorgfs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
